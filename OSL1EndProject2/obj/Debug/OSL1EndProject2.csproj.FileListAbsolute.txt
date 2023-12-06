@@ -1,0 +1,7 @@
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL1\End Project2\OSL1EndProject2\OSL1EndProject2\bin\Debug\OSL1EndProject2.exe.config
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL1\End Project2\OSL1EndProject2\OSL1EndProject2\bin\Debug\OSL1EndProject2.exe
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL1\End Project2\OSL1EndProject2\OSL1EndProject2\bin\Debug\OSL1EndProject2.pdb
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL1\End Project2\OSL1EndProject2\OSL1EndProject2\obj\Debug\OSL1EndProject2.csproj.AssemblyReference.cache
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL1\End Project2\OSL1EndProject2\OSL1EndProject2\obj\Debug\OSL1EndProject2.csproj.CoreCompileInputs.cache
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL1\End Project2\OSL1EndProject2\OSL1EndProject2\obj\Debug\OSL1EndProject2.exe
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL1\End Project2\OSL1EndProject2\OSL1EndProject2\obj\Debug\OSL1EndProject2.pdb
